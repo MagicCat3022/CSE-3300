@@ -39,6 +39,7 @@ def configure():
         print(switch.name, switch.dpid)
 
     CLI(net)  # Start command line interface
+    net.stop()
 
 if __name__ == '__main__':
     setLogLevel('info')

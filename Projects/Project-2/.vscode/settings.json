@@ -2,5 +2,10 @@
     "cSpell.words": [
         "mininet",
         "topo"
-    ]
+    ],
+    // json
+    "python.analysis.extraPaths": ["/home/mustafa/Github/pox"],
+    "editor.insertSpaces": false,
+    "editor.detectIndentation": false,
+    "editor.tabSize": 4
 }
